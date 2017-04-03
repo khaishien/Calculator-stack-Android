@@ -2,8 +2,8 @@
 # Calculator Stack Android
 simple calculator by using stack 
 
-#Demo
+# Demo
 
 
-#More info
+# More info
 to be including unit testing with ui and function testing.
