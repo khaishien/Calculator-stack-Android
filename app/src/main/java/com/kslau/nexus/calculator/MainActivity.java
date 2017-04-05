@@ -282,7 +282,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
-    private double infix(String expression) {
+    public double infix(String expression) {
 
         expression = expression.replaceAll("[\t\n ]", "") + "=";
         String operator = "*/+-=";
@@ -354,5 +354,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         else
             return null;
     }
+
+
 
 }
