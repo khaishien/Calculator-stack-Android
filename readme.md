@@ -1,9 +1,9 @@
 
 # Calculator Stack Android
-simple calculator by using stack. Peform some simple test case on calculator.
+simple calculator by using stack. Peform some simple ui test case and junit test case on calculator functions.
 
 # Demo
 ![Screenshot](/screenshot.PNG)
 
 # More info
-to be including unit testing with ui and function testing.
+Test with JUnit and Espresso. More info refer to test/androidTest folder.
